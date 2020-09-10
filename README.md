@@ -1,2 +1,2 @@
 # CraigslistClone
-A clone of Craigslist wiht way better GUI.Developed using Python-Django
+A clone of Craigslist with way better GUI.Developed using Python-Django
